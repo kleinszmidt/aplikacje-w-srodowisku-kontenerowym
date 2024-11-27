@@ -66,3 +66,25 @@
 ![image](https://github.com/user-attachments/assets/f712dbff-15ad-4c20-b491-002ba2e98256)
 ### Section #3 - Overlay Networking
 #### Step 1: The Basics
+![image](https://github.com/user-attachments/assets/2c0b513c-8a00-430f-872f-11e349b2c0ab)
+#### Step 2: Create an overlay network
+![image](https://github.com/user-attachments/assets/ac7eec61-25db-4fbd-8146-9c3b8b7563ba)
+#### Step 3: Create a service
+![image](https://github.com/user-attachments/assets/3a10b803-bbce-4ab5-b461-8e989d70f26a)
+#### Step 4: Test the network
+![image](https://github.com/user-attachments/assets/1c4c1eb6-d380-45bd-99fe-e819612f8ea9)
+#### Step 5: Test service discovery
+![image](https://github.com/user-attachments/assets/56ffdc02-91a1-4123-9939-fda8d9a81f16)
+#### Cleaning Up
+![image](https://github.com/user-attachments/assets/850fe4c7-c0eb-4961-bc0a-46463788c1bb)
+## Docker Orchestration Hands-on Lab
+### Section 2: Configure Swarm Mode
+![image](https://github.com/user-attachments/assets/418d3491-20ee-459d-b06d-ae32058117aa)
+#### Step 2.1 - Create a Manager node
+![image](https://github.com/user-attachments/assets/9d28682e-a711-4322-a414-fb14fe17be9f)
+#### Step 2.2 - Join Worker nodes to the Swarm
+![image](https://github.com/user-attachments/assets/8ce532f4-c1d7-4457-ba26-948f07187ec7)
+#### Step 3.1 - Deploy the application components as Docker services
+![image](https://github.com/user-attachments/assets/f9c5bb31-fe22-4212-8717-3b5551e7da4d)
+#### Section 4: Scale the application
+![image](https://github.com/user-attachments/assets/404d8c60-ad72-4964-b3b7-f72fbf7d6f59)
