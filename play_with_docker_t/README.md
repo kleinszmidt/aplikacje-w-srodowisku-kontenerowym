@@ -14,3 +14,11 @@
 ![image](https://github.com/user-attachments/assets/ed18cd04-c473-4876-b570-51067985de8c)
 ### Step 1: Containerized Link Extractor Script
 ![image](https://github.com/user-attachments/assets/08783575-581e-4d43-b105-b48e577abc2d)
+### Step 2: Link Extractor Module with Full URI and Anchor Text
+![image](https://github.com/user-attachments/assets/18ce6ad5-38f5-49e4-9194-a87940824ab7)
+![image](https://github.com/user-attachments/assets/8243eb6a-6d8f-4ea7-894b-c9bf3b4358fd)
+### Step 3: Link Extractor API Service
+![image](https://github.com/user-attachments/assets/d2ad1fe3-9909-4bc4-981e-c402c42df9fe)
+### Step 4: Link Extractor API and Web Front End Services
+![image](https://github.com/user-attachments/assets/8c8f97a4-7fcd-488e-b170-cb644e1dac8f)
+![image](https://github.com/user-attachments/assets/8c5f390d-160e-41d2-941b-622d70ce6373)
