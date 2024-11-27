@@ -26,3 +26,6 @@
 ![image](https://github.com/user-attachments/assets/c8408695-1814-4ccb-b689-778c8bb21041)
 ### Step 6: Swap Python API Service with Ruby
 ![image](https://github.com/user-attachments/assets/13ca2be8-cb4a-4ba0-ba5f-3f8111764268)
+## Swarm stack introduction
+![image](https://github.com/user-attachments/assets/2db49057-3f0c-4d78-8bf4-40a8e0333d86)
+## ETAP 2
