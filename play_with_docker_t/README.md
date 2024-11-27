@@ -22,3 +22,7 @@
 ### Step 4: Link Extractor API and Web Front End Services
 ![image](https://github.com/user-attachments/assets/8c8f97a4-7fcd-488e-b170-cb644e1dac8f)
 ![image](https://github.com/user-attachments/assets/8c5f390d-160e-41d2-941b-622d70ce6373)
+### Step 5: Redis Service for Caching
+![image](https://github.com/user-attachments/assets/c8408695-1814-4ccb-b689-778c8bb21041)
+### Step 6: Swap Python API Service with Ruby
+![image](https://github.com/user-attachments/assets/13ca2be8-cb4a-4ba0-ba5f-3f8111764268)
