@@ -43,4 +43,26 @@
 ![image](https://github.com/user-attachments/assets/762e8a96-9876-41e3-a076-7cc1e79af220)
 ### Step 4: Extra for experts
 ![image](https://github.com/user-attachments/assets/24dde3be-b135-418b-9411-116ad079d90f)
-
+## Docker Networking Hands-on Lab
+### Section #1 - Networking Basics
+#### Step 1: The Docker Network Command
+![image](https://github.com/user-attachments/assets/e188b7c7-4529-404a-a7db-b570a2e59f0c)
+#### Step 2: List networks
+![image](https://github.com/user-attachments/assets/d9047278-4bd9-4745-b860-37c4fd111f7d)
+#### Step 3: Inspect a network
+![image](https://github.com/user-attachments/assets/9ece550f-1548-4942-8baa-eba156f386bc)
+#### Step 4: List network driver plugins
+![image](https://github.com/user-attachments/assets/c72e5e98-3625-41ef-9bb8-a68b099bbdda)
+### Section #2 - Bridge Networking
+#### Step 1: The Basics
+![image](https://github.com/user-attachments/assets/e850457c-ed37-4ee3-9d54-421cb0b67adc)
+![image](https://github.com/user-attachments/assets/53d35b96-4566-45ab-b76e-e72e0191fba8)
+#### Step 2: Connect a container
+![image](https://github.com/user-attachments/assets/58a12e4f-df29-44b0-87cf-8a3b72a6b541)
+#### Step 3: Test network connectivity
+![image](https://github.com/user-attachments/assets/c3668715-86ee-4fa0-947c-1eb59e796a15)
+![image](https://github.com/user-attachments/assets/99e959cd-b21f-4e01-ac49-a8b37dc983f8)
+#### Step 4: Configure NAT for external connectivity
+![image](https://github.com/user-attachments/assets/f712dbff-15ad-4c20-b491-002ba2e98256)
+### Section #3 - Overlay Networking
+#### Step 1: The Basics
