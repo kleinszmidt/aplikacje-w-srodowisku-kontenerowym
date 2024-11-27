@@ -28,4 +28,19 @@
 ![image](https://github.com/user-attachments/assets/13ca2be8-cb4a-4ba0-ba5f-3f8111764268)
 ## Swarm stack introduction
 ![image](https://github.com/user-attachments/assets/2db49057-3f0c-4d78-8bf4-40a8e0333d86)
-## ETAP 2
+## ETAP 2 
+### Security Lab: Seccomp
+### Step 1: Clone the labs GitHub repo
+![image](https://github.com/user-attachments/assets/6070254f-d658-4c78-904a-58c6bac16177)
+### Step 2: Test a seccomp profile
+![image](https://github.com/user-attachments/assets/12cacedf-c04d-4a8c-bd51-f164c150a884)
+### Step 3: Run a container with no seccomp profile
+![image](https://github.com/user-attachments/assets/fac9569e-77a5-4e31-9fe4-21d75b02a7ce)
+### Step 4: Selectively remove syscalls
+![image](https://github.com/user-attachments/assets/3648f729-79b7-45d9-84e2-80b63bb59b48)
+### Security Lab: Capabilities
+### Step 3: Testing Docker capabilities
+![image](https://github.com/user-attachments/assets/762e8a96-9876-41e3-a076-7cc1e79af220)
+### Step 4: Extra for experts
+![image](https://github.com/user-attachments/assets/24dde3be-b135-418b-9411-116ad079d90f)
+
