@@ -1,0 +1,12 @@
+hello:
+  image: nginx:1.19-alpine
+  volumes:
+    - ./hello.html:/usr/share/nginx/html/index.html:ro
+  environment:
+    - VIRTUAL_HOST=hello.colasloth.com
+world:
+  image: nginx:1.19-alpine
+  volumes:
+    - ./world.html:/usr/share/nginx/html/index.html:ro
+  environment:
+    - VIRTUAL_HOST=world.colasloth.com

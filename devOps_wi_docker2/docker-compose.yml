@@ -1,0 +1,10 @@
+version: '3.8'
+
+services:
+
+  yt-dlp-ubuntu:
+    image: juliakleinszmidt/juliakleinszmidt
+    build: .
+    volumes:
+      - .:/mydir
+    container_name: yt-dlp
