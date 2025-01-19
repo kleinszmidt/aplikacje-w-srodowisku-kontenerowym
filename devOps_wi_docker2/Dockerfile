@@ -1,9 +1,23 @@
-FROM ubuntu:22.04
+# Bazowy obraz
+FROM alpine:3.18
 
-WORKDIR /mydir
+# Ustaw katalog roboczy
+WORKDIR /app
 
-RUN apt-get update && apt-get install -y curl python3
-RUN curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
-RUN chmod a+x /usr/local/bin/yt-dlp
+# Instaluj zależności aplikacji (przykład - dostosuj do swojej aplikacji)
+RUN apk add --no-cache python3 curl
 
-ENTRYPOINT ["/usr/local/bin/yt-dlp"]
+# Dodaj użytkownika o nazwie 'appuser' bez hasła
+RUN adduser -D -u 1000 appuser
+
+# Zmień właściciela katalogu roboczego na 'appuser'
+RUN chown appuser /app
+
+# Przełącz na użytkownika 'appuser'
+USER appuser
+
+# Kopiuj pliki aplikacji
+COPY . /app
+
+# Uruchom aplikację (przykładowy wpis)
+CMD ["python3", "app.py"]
