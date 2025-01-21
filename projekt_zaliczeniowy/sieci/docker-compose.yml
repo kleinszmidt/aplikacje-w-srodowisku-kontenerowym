@@ -1,0 +1,25 @@
+version: '3.9'
+services:
+  app:
+    image: python:3.9
+    container_name: app-container
+    working_dir: /app
+    volumes:
+      - ./app:/app
+    command: python app.py
+    networks:
+      - my_network
+
+  db:
+    image: postgres:14
+    container_name: db-container
+    environment:
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: password
+      POSTGRES_DB: testdb
+    networks:
+      - my_network
+
+networks:
+  my_network:
+    driver: bridge

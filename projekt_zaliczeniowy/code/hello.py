@@ -1,0 +1,2 @@
+
+print("dzień doberek")
